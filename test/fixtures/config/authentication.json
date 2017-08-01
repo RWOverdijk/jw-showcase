@@ -21,7 +21,7 @@
         "useSigning": false,
         "useAuthentication": true,
         "authenticationRequired": false,
-        "authenticationProviders": ["facebook", "twitter", "google", "github"],
+        "authenticationProviders": ["facebook", "twitter", "google", "github", "local"],
         "restrictedDomains": false,
         "firebase": {
             "apiKey": "ThisIsAKey",
